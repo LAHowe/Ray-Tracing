@@ -1,0 +1,19 @@
+\\labserver\students\stu461516\mydocuments\visual studio 2013\Projects\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+E:\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+E:\RayTracing\RayTracing\obj\Debug\RayTracing.csprojResolveAssemblyReference.cache
+E:\RayTracing\RayTracing\obj\Debug\RayTracing.Form1.resources
+E:\RayTracing\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+E:\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.Cache
+E:\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+E:\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+E:\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+E:\RayTracing\RayTracing\obj\Debug\RayTracing.pdb
+S:\Spring  Fall 2016\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+S:\Spring  Fall 2016\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+S:\Spring  Fall 2016\RayTracing\RayTracing\obj\Debug\RayTracing.pdb
+S:\Spring  Fall 2016\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+S:\Spring  Fall 2016\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+S:\Spring  Fall 2016\RayTracing\RayTracing\obj\Debug\RayTracing.csprojResolveAssemblyReference.cache
+S:\Spring  Fall 2016\RayTracing\RayTracing\obj\Debug\RayTracing.Form1.resources
+S:\Spring  Fall 2016\RayTracing\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+S:\Spring  Fall 2016\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.Cache
